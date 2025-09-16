@@ -1,0 +1,11 @@
+path: /home/l611/611/ywk/ultralytics-yolo11/dataset
+train: images/train
+val: images/val
+test: images/test
+
+# 类别名称列表
+nc: 1
+names:
+  0: track
+
+
